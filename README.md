@@ -1,16 +1,28 @@
-## Onose Braimah
+# Hi, I'm Onose Braimah 👋
 
-<!--
-**Ono-se/Ono-se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an intermediate Data Scientist and Machine Learning enthusiast, passionate about 
+turning raw data into meaningful insights.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently advancing my skills in Data Science & Machine Learning
+- 🌍 Based in Nigeria
+- 📊 I enjoy working with messy data, building models, and telling stories through visualizations
+- 🚀 Always learning and building
+
+## Skills & Tools
+
+**Languages**
+- Python
+
+**Data & Analysis**
+- Pandas, NumPy, SciPy
+
+**Machine Learning**
+- Scikit-learn, PCA, Logistic Regression, Hypothesis Testing
+
+**Visualization**
+- Matplotlib, Seaborn
+
+**Other**
+- Google Colab, Kaggle, Jupyter Notebook, Git & GitHub
