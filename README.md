@@ -19,7 +19,7 @@ turning raw data into meaningful insights.
 - Pandas, NumPy, SciPy
 
 **Machine Learning**
-- Scikit-learn, PCA, Logistic Regression, Hypothesis Testing
+- Scikit-learn, PCA, Logistic Regression, Hypothesis Testing, Random Forest
 
 **Visualization**
 - Matplotlib, Seaborn
