@@ -1,28 +1,26 @@
-# Hi, I'm Onose Braimah 👋
+# Hi, I'm Onose Braimah
 
-I'm an intermediate Data Scientist and Machine Learning enthusiast, passionate about 
-turning raw data into meaningful insights.
+I'm a Data Scientist and Machine Learning enthusiast who uses data to uncover patterns, build predictive models, and solve real-world problems.
 
-## About Me
+## What I Can Do
 
-- 🎓 Currently advancing my skills in Data Science & Machine Learning
-- 🌍 Based in Nigeria
-- 📊 I enjoy working with messy data, building models, and telling stories through visualizations
-- 🚀 Always learning and building
+* Clean, preprocess, and explore messy datasets
+* Perform exploratory data analysis and statistical analysis
+* Build and evaluate machine learning models
+* Engineer and select features
+* Work with classification, regression, clustering, and anomaly detection problems
+* Handle imbalanced datasets and evaluate model performance using appropriate metrics
+* Tune models using cross-validation and hyperparameter search
+* Communicate findings through clear data visualizations
 
-## Skills & Tools
+## Tools & Technologies
 
-**Languages**
-- Python
+**Languages:** Python, SQL
 
-**Data & Analysis**
-- Pandas, NumPy, SciPy
+**Data & Analysis:** Pandas, NumPy, SciPy
 
-**Machine Learning**
-- Scikit-learn, PCA, Linear Regression, Logistic Regression, Hypothesis Testing, Random Forest
+**Machine Learning:** Scikit-learn, CatBoost
 
-**Visualization**
-- Matplotlib, Seaborn
+**Visualization:** Matplotlib, Seaborn, Plotly
 
-**Other**
-- Google Colab, Kaggle, Jupyter Notebook, Git & GitHub
+**Tools:** Jupyter, Google Colab, Kaggle, VS Code, Git & GitHub, MySQL
